@@ -1,0 +1,5 @@
+cpx src/**/**/*.js ../icarus-storybook/node_modules/common-component/src/ --watch -v
+
+cpx src/**/**/*.js ../design-systems/node_modules/common-component/src/ --watch -v
+
+cpx index.js ../design-systems/node_modules/common-component --watch -v
